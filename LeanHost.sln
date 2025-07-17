@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGetServer", "NuGetServer\NuGetServer.csproj", "{8F45D571-5D9F-4C90-B4BA-74C1B1F0A8EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGetServer", "NuGetServer.csproj", "{8F45D571-5D9F-4C90-B4BA-74C1B1F0A8EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
